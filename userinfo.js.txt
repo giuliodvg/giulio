@@ -1,5 +1,5 @@
 versione 13 - per installarla
-| unistall discord.js | e poi | npm i discord.js@13 |
+npm unistall discord.js | e poi | npm i discord.js@13 
 
 codice userinfo v13:
 
